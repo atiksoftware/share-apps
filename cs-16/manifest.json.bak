@@ -1,12 +1,12 @@
 {
 	"files" : [
 		{
-			"filename" : "fallback.wav",
+			"file" : "fallback.wav",
 			"title" : "Takım Geri Çekil",
 			"description" : "CT team fall back"
 		},
 		{
-			"filename" : "clear.wav",
+			"file" : "clear.wav",
 			"title" : "Bölge Temiz",
 			"description" : "CT sector clear"
 		}
